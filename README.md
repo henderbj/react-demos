@@ -1,3 +1,5 @@
+Code based mostly from: https://reactjs.org/docs/code-splitting.html#route-based-code-splitting
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
